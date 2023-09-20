@@ -79,7 +79,7 @@ const Demo = () => {
                   className="w-[40%] h-[40%] object-contain"
                 />
               </div>
-              <p>
+              <p className="flex">
                 {item.url}
               </p>
             </div>
